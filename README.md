@@ -37,3 +37,7 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 # Contact
 
 If you have any questions, suggestions, or feedback, please reach out to us at twitter @christinehampt or email champt2001@protonmail.com
+
+# Credits and Resources
+
+
