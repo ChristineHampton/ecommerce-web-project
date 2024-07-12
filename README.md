@@ -40,6 +40,6 @@ If you have any questions, suggestions, or feedback, please reach out to us at t
 
 # Credits and Resources
 
-https://www.youtube.com/watch?v=P8YuWEkTeuE&list=LL&index=17&t=2806s - Tech2etc <br>
-https://www.youtube.com/watch?v=NqSM99bxIug - GreatStack <br>
+Tech2etc - https://www.youtube.com/watch?v=P8YuWEkTeuE&list=LL&index=17&t=2806s <br>
+GreatStack - https://www.youtube.com/watch?v=NqSM99bxIug <br>
 
